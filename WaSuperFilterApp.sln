@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaSuperFilterApp", "WaSuperFilterApp\WaSuperFilterApp.csproj", "{3C8A82AA-3870-41D0-95BE-1923BA9EDF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C8A82AA-3870-41D0-95BE-1923BA9EDF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8A82AA-3870-41D0-95BE-1923BA9EDF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8A82AA-3870-41D0-95BE-1923BA9EDF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8A82AA-3870-41D0-95BE-1923BA9EDF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00A17C1-E751-4618-9CC7-2678354AA4A1}
+	EndGlobalSection
+EndGlobal
